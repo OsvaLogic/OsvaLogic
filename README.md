@@ -56,25 +56,13 @@ A través de **Osva.Logic**, diseño y construyo herramientas digitales que opti
 
 ---
 
-## 📈 Actividad en el Sistema
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsvaLogic&theme=tokyonight&hide_border=true&area=true" width="100%" alt="OsvaLogic Activity Graph" />
-</div>
-
----
-
 ## 🎮 Fuera de Código
-* 🗡️ Sobreviviendo en **Dead by Daylight**.
+- 🗡️ Sobreviviendo en **Dead by Daylight**.
 * 🚲 Conquistando rutas y senderos en **Bicicleta**.
 * 🛠️ Ensamblando máquinas de alto rendimiento en **PcDoctor**.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=System.execute('Osva.Logic');Status:+Active;Building+Future+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=System.execute('Osva.Logic')" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire_real.png" width="100%">
-</p>
