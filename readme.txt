@@ -35,25 +35,25 @@
 
 ---
 
-## 📈 Actividad y Energía (Gráfico Dinámico)
+## 📊 Nivel de Energía (GitHub Activity)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsvaLogic&theme=react-dark&hide_border=true&area=true" width="100%" alt="OsvaLogic Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsvaLogic&theme=tokyonight&hide_border=true&area=true" width="100%" alt="OsvaLogic Activity Graph" />
 </div>
 
 ---
 
 ## 🎮 Fuera de Código
 * 🗡️ Sobreviviendo en **Dead by Daylight**.
-* 🏆 Escalando en **League of Legends**.
+* 🚲 Conquistando rutas y senderos en **Bicicleta**.
 * 🛠️ Ensamblando hardware en **PcDoctor**.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System.execute('Osva.Logic');Status:+Active;Connection:+Secure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=System.execute('Osva.Logic');Status:+Active;Building+Future+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire_real.png" width="100%">
 </p>
